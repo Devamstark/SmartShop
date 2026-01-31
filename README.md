@@ -9,7 +9,11 @@ Team SmartTech is a group of passionate developers and designers collaborating t
 
 **Team Members
 Team Lead: Abdul Choudhury
+
 Backend Developer: Aqveena Manoj
+
 Frontend Developer: Vrushika Gajjar
+
 Database Developer: Devam Trivedi
+
 Security Specialist: Abdul Munshi**
